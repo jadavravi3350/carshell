@@ -28,7 +28,7 @@ require 'includes/header.php';
             </div>
         </div>
 
-        <div class="premium-card" style="padding: 40px;">
+        <div class="premium-card static-card" style="padding: 40px;">
             <form action="#" method="post">
                 <div class="form-group">
                     <label for="name">Full Name</label>

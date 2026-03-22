@@ -50,8 +50,8 @@ if (!isset($activePage)) {
                 <li><a href="blog.php" class="<?= $activePage === 'blog' ? 'active' : '' ?>">Journal</a></li>
                 <li><a href="contact.php" class="<?= $activePage === 'contact' ? 'active' : '' ?>">Contact</a></li>
                 
-                <!-- Theme Toggle & Mobile CTA inside menu for mobile view -->
-                <li style="display:none;" class="mobile-only-cta"><a href="sell.php" class="btn" style="color:#fff;">Consign Vehicle</a></li>
+                <!-- Mobile CTA inside menu for mobile view -->
+                <li class="mobile-only-cta"><a href="sell.php" class="btn" style="color:#fff;">Consign Vehicle</a></li>
             </ul>
             
             <a href="sell.php" class="btn header-cta"><i class="fa-solid fa-plus"></i> Consign</a>

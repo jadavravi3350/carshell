@@ -11,7 +11,7 @@ require 'includes/header.php';
 </section>
 
 <section class="container" style="padding-bottom: 80px;">
-    <div class="premium-card" style="max-width: 600px; margin: 0 auto; padding: 40px;">
+    <div class="premium-card static-card" style="max-width: 600px; margin: 0 auto; padding: 40px;">
         <form action="#" method="post">
             <h2 style="margin-bottom: 30px; text-align: center; font-family: 'Space Grotesk', sans-serif;">Vehicle Details</h2>
             

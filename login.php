@@ -4,7 +4,7 @@ $activePage = 'login';
 require 'includes/header.php';
 ?>
 <section class="container" style="min-height: 80vh; display: flex; align-items: center; justify-content: center; padding: 100px 0;">
-    <div class="premium-card" style="width: 100%; max-width: 450px; padding: 50px 40px;">
+    <div class="premium-card static-card" style="width: 100%; max-width: 450px; padding: 50px 40px;">
         <div style="text-align: center; margin-bottom: 30px;">
             <h2 style="font-family: 'Space Grotesk', sans-serif; font-size: 2rem;">Welcome Back</h2>
             <p style="color: var(--text-muted);">Access your DriveX portfolio.</p>
