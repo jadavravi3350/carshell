@@ -12,6 +12,8 @@ if (!isset($activePage)) {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title><?= htmlspecialchars($pageTitle); ?></title>
+    <!-- DriveX Custom Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230a0a0c'/><text x='50%' y='50%' font-family='sans-serif' font-weight='bold' font-size='60' fill='%23ff3f34' dominant-baseline='central' text-anchor='middle'>X</text></svg>">
     <!-- Use Preconnect for faster font loading -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
