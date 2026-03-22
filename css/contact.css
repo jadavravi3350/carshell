@@ -1,0 +1,10 @@
+/* Contact Page Specific Styles */
+.page-header{background:linear-gradient(115deg,rgba(99,102,241,.95),rgba(99,102,241,.75)),url('https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1500&q=80') center/cover no-repeat;}
+.page-header h1{color:#fff;text-shadow:0 2px 4px rgba(0,0,0,.5);}
+.page-header p{color:#eef2ff;}
+.card-form{background:#eef2ff;border:2px solid #6366f1;border-radius:18px;max-width:600px;padding:30px;}
+.card-form label{color:#3730a3;font-weight:700;}
+.card-form input,.card-form select,.card-form textarea{border:2px solid #c7d2fe;border-radius:12px;padding:14px;font-size:1rem;}
+.card-form input:focus,.card-form select:focus,.card-form textarea:focus{border-color:#6366f1;outline:none;box-shadow:0 0 0 3px rgba(99,102,241,.2);}
+.card-form button{background:#6366f1;border:2px solid #6366f1;color:#fff;padding:14px 24px;border-radius:12px;font-size:1.1rem;font-weight:700;cursor:pointer;transition:.3s;}
+.card-form button:hover{background:#4f46e5;border-color:#4f46e5;transform:translateY(-3px) scale(1.05);box-shadow:0 10px 25px rgba(99,102,241,.3);}
